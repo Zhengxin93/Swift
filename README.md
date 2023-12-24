@@ -15,3 +15,7 @@
 
 # 相关文章
 - [Building Reusable SwiftUI Components](https://speakerdeck.com/peterfriese/building-reusable-swiftui-components-98b3272c-3056-44ad-879c-2780c1f89e2d)：教你如何建立“组件化思维“，从而以更简单更有条理的方式用Swift UI去构建应用
+
+
+# 其他资源
+- [Mastering GitHub Copilot for Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) 微软出品的课程，共计6个课时，里面包含利用 GitHub Copilot 和人工智能配对编程资源所需的一切知识。
