@@ -3,7 +3,7 @@
 
 # 博客&频道
 - [ChaoCode](https://www.youtube.com/@ChaoCode/featured)：一位台湾女工程师开设的 Swift UI 频道，用直白易懂的方式对 Swift 编程语言进行了系统讲解，适合新手学习。还有，博主的声音非常甜美～
-
+- [肘子的 Swift 记事本](https://fatbobman.com/zh/)：国内工程师徐杨的 Swift 博客，会定期发布一些 Swift 相关的深度技术文章。适合已过新手期正在踏入进阶期的朋友。
 
 # 官方教程
 
